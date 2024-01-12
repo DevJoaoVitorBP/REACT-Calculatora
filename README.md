@@ -2,6 +2,10 @@
 
 This project is a simple calculator built with React. It allows basic arithmetic operations and maintains a history of calculations.
 
+## Deplou link
+
+[https://reactcalculatordevjoaopereira.netlify.app](https://reactcalculatordevjoaopereira.netlify.app)
+
 ## How to clone and run the project
 
 1. Clone the repository: `https://github.com/DevJoaoVitorBP/REACT-Calculatora.git`
